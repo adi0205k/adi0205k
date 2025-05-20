@@ -1,6 +1,4 @@
 # 💫 About Me:
-learning<br>looking for job
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adya_k_02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aditya-kamble-553364331) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kambleadi0205@gmail.com) 
